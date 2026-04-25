@@ -328,5 +328,4 @@ With these improvements the application's security profile would improve from **
 ---
 
 *Analysis tool: Manual code review + static analysis*  
-*Analyst: Claude AI Security Analysis Framework*  
 *Standard: OWASP Desktop Application Security*
